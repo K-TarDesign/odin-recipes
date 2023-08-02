@@ -1,0 +1,14 @@
+* {
+    font-family: Arial; serif;
+    background-color: lightgoldenrodyellow;
+}
+
+.recipe-image {
+    width: 90%;
+    height: auto;
+}
+
+div.recipe-text {
+    width: 90%;
+    height: auto;
+}
