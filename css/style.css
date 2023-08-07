@@ -1,14 +1,29 @@
 * {
-    font-family: Arial; serif;
+    font-family: Arial, serif;
     background-color: lightgoldenrodyellow;
 }
 
+.recipe-list {
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.recipe-list li {
+    padding: 10px;
+}
+
+.banner {
+    font-weight: bold;
+}
+
 .recipe-image {
-    width: 90%;
+    width: 100%;
     height: auto;
 }
 
-div.recipe-text {
-    width: 90%;
+.recipe-text {
+    width: 80%;
     height: auto;
+    margin: 0px auto;
 }
